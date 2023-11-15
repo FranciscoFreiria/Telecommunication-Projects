@@ -1,0 +1,5 @@
+This subject was evaluated by a project: "Hertzian beams" . A couple questions are also indicated to be answered.
+
+OBJECTIVE: Analysis and design of radio connections using Hertzian beams, which enhance the transmission of electromagnetic waves along a given path, which may or may not have obstacles and sustain reflections at the working frequency, with the equipment used.
+
+We projected a solution between Setubal and Queluz, uniting the two banks of the Tagus River.
