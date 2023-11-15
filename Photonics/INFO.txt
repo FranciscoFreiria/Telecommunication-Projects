@@ -1,0 +1,7 @@
+This subject was taught by three small projects:
+
+Project1: Explain the "The Twin Paradox", through "Special theory of relativity" and Doppler effect. A couple questions are also indicated to be answered.
+
+Project2: Bit Rate in SMFs from dispersion-induced limitation with chirped Gaussian pulses. A couple questions are also indicated to be answered and are proposed to write a matlab script for four different case conditions.
+
+Project3: "From EPR to the CHSH Game", therical basis about "Quantum entanglement" are explaied through a game.
